@@ -1,4 +1,4 @@
-# vicefront
+# plantillaVue
 
 ## Project setup
 ```
